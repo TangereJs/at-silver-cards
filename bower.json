@@ -1,0 +1,8 @@
+{
+  "name": "at-silver-cards",
+  "version": "0.0.1.6",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#master"
+  }
+}
